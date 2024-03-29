@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstnet.Server", "firstnet.Server\firstnet.Server.csproj", "{9AAC00DA-0B89-481A-AFE4-16EF1A546202}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "firstnet.client", "firstnet.client\firstnet.client.esproj", "{DAAB52F6-4E54-41FB-93A0-154A6393ADF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAC00DA-0B89-481A-AFE4-16EF1A546202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAC00DA-0B89-481A-AFE4-16EF1A546202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAC00DA-0B89-481A-AFE4-16EF1A546202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAC00DA-0B89-481A-AFE4-16EF1A546202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAB52F6-4E54-41FB-93A0-154A6393ADF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAB52F6-4E54-41FB-93A0-154A6393ADF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAB52F6-4E54-41FB-93A0-154A6393ADF9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DAAB52F6-4E54-41FB-93A0-154A6393ADF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAB52F6-4E54-41FB-93A0-154A6393ADF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAB52F6-4E54-41FB-93A0-154A6393ADF9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDDF745-AA21-4726-8C0F-9F56C1BABDCF}
+	EndGlobalSection
+EndGlobal
